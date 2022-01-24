@@ -470,11 +470,12 @@ section {
   padding-top: 30px;
   position: relative;
   overflow: hidden;
-  box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
+  box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.253);
   transition: all 0.3s ease-in-out;
   text-align: center;
   border: 5px solid #fff;
   border-radius: 0 30px 0 30px;
+  background: white;
 }
 .experience .icon {
   margin: 0 auto 20px auto;
@@ -532,26 +533,7 @@ section {
   background-color: #687683;
   color: white;
 }
-#icon1 {
-  background-image: url(../img/tokopedia.jpg);
-  justify-content: center;
-  align-items: center;
-}
-#icon2 {
-  background-image: url(../img/akulaku.jpg);
-  justify-content: center;
-  align-items: center;
-}
-#icon3 {
-  background-image: url(../img/blibli.png);
-  justify-content: center;
-  align-items: center;
-}
-#icon4 {
-  background-image: url(../img/lazada.png);
-  justify-content: center;
-  align-items: center;
-}
+
 .wise {
   padding: 80px 0;
   background: url("../img/bg.png") no-repeat;
